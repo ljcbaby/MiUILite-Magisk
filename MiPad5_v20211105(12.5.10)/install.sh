@@ -54,6 +54,7 @@ REPLACE="
 /system/app/AnalyticsCore
 /system/app/BasicDreams
 /system/app/BookmarkProvider
+/system/app/com.xiaomi.macro
 /system/app/com.google.ar.core
 /system/app/FidoAuthen
 /system/app/FidoClient
@@ -62,19 +63,14 @@ REPLACE="
 /system/app/HybridPlatform
 /system/app/HybridAccessory
 /system/app/KSICibaEngine
-/System/app/MiuiAccessibility
+/system/app/MiGameService
+/system/app/MiuiPrintSpooler
 /system/app/MSA
-/system/app/PrintSpooler
 /system/app/SecurityInputMethod
 /system/app/SogouInput
 /system/app/talkback
-/System/data-app/com.baidu.searchbox_9
-/System/data-app/com.dragon.read_104
-/System/data-app/com.taobao.litetao_144
-/System/data-app/com.UCMobile_11
 /System/data-app/GameCenter
 /System/data-app/MiLiveAssistant
-/System/data-app/NewHome
 /System/data-app/Youpin
 /system/priv-app/Browser
 /System/priv-app/BuiltInPrintService
@@ -152,7 +148,7 @@ REPLACE="
 
 print_modname() {
   ui_print "*****************************************************"
-  ui_print "                Redmi Note 9 Pro 精简                "
+  ui_print "                    MiPad5 精简                       "
   ui_print "                  Author: Ljcbaby                    "
   ui_print "*****************************************************"
 }
