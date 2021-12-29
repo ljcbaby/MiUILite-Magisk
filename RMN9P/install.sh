@@ -55,8 +55,6 @@ REPLACE="
 /system/app/BasicDreams
 /system/app/BookmarkProvider
 /system/app/com.google.ar.core
-/system/app/FidoAuthen
-/system/app/FidoClient
 /system/app/greenguard
 /system/app/GooglePrintRecommendationService
 /system/app/HybridPlatform

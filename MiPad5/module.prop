@@ -1,7 +1,7 @@
 id=MiPad5Lite
 name=MiPad5精简
-version=v20211111(12.5.13)
-versionCode=211111
+version=v20211229(21.12.28)
+versionCode=211229
 author=Ljcbaby
 description=去除小米平板5系统无用App，自用
 minMagisk=1700
