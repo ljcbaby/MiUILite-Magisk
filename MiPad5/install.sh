@@ -70,10 +70,12 @@ REPLACE="
 /System/data-app/GameCenter
 /System/data-app/MiLiveAssistant
 /System/data-app/MIUIYoupin
+/System/data-app/Youpin
+/system/priv-app/Browser
 /System/priv-app/BuiltInPrintService
 /System/priv-app/CallLogBackup
 /system/priv-app/MiGameCenterSDKService
-/system/priv-app/MIUIBrowserPad
+/system/priv-app/MiBrowserPad
 "
 
 ##########################################################################################
