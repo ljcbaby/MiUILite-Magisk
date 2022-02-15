@@ -56,10 +56,10 @@ REPLACE="
 /system/app/BookmarkProvider
 /system/app/com.xiaomi.macro
 /system/app/com.google.ar.core
-/system/app/greenguard
 /system/app/GooglePrintRecommendationService
-/system/app/HybridPlatform
+/system/app/greenguard
 /system/app/HybridAccessory
+/system/app/HybridPlatform
 /system/app/KSICibaEngine
 /system/app/MiGameService
 /system/app/MiuiPrintSpooler
@@ -67,15 +67,14 @@ REPLACE="
 /system/app/MSA
 /system/app/SogouInput
 /system/app/talkback
-/System/data-app/GameCenter
-/System/data-app/MiLiveAssistant
-/System/data-app/MIUIYoupin
-/System/data-app/Youpin
-/system/priv-app/Browser
-/System/priv-app/BuiltInPrintService
-/System/priv-app/CallLogBackup
+/system/data-app/GameCenter
+/system/data-app/MiLiveAssistant
+/system/data-app/MIUIYoupin
+/system/data-app/NewHome
+/system/priv-app/BuiltInPrintService
+/system/priv-app/CallLogBackup
 /system/priv-app/MiGameCenterSDKService
-/system/priv-app/MiBrowserPad
+/system/priv-app/MIUIBrowserPad
 "
 
 ##########################################################################################
