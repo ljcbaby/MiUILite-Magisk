@@ -57,7 +57,6 @@ REPLACE="
 /system/app/com.xiaomi.macro
 /system/app/com.google.ar.core
 /system/app/GooglePrintRecommendationService
-/system/app/greenguard
 /system/app/HybridAccessory
 /system/app/HybridPlatform
 /system/app/KSICibaEngine
