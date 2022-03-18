@@ -54,8 +54,8 @@ REPLACE="
 /system/app/AnalyticsCore
 /system/app/BasicDreams
 /system/app/BookmarkProvider
-/system/app/com.xiaomi.macro
 /system/app/com.google.ar.core
+/system/app/com.xiaomi.macro
 /system/app/GooglePrintRecommendationService
 /system/app/HybridAccessory
 /system/app/HybridPlatform
