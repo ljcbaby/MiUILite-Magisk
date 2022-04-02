@@ -1,7 +1,7 @@
 id=RMN9PLite
 name=RMN9P精简
-version=v20220325(22.3.23)
-versionCode=220325
+version=v20220402(22.3.30)
+versionCode=220402
 author=Ljcbaby
 description=去除 Redmi Note 9 Pro 系统无用App，自用
 minMagisk=1700
