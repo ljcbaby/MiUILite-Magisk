@@ -146,7 +146,7 @@ REPLACE="
 
 print_modname() {
   ui_print "*****************************************************"
-  ui_print "                    MiPad5 精简                       "
+  ui_print "                MiPad 5 Pro 5G 精简                  "
   ui_print "                  Author: Ljcbaby                    "
   ui_print "*****************************************************"
 }
