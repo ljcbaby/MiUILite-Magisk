@@ -6,4 +6,6 @@
 
 解压`bz`：我用的是 Bandizip
 
-解压`img`：我用的是 360压缩
+解压`ext4`的`img`：我用的是 360压缩
+
+解压`erofs`的`img`：[Releases · thka2016/erofsUnpack](https://github.com/thka2016/erofsUnpack/releases)
