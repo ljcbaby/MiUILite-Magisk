@@ -62,7 +62,7 @@ REPLACE="
 /system/app/HybridPlatform
 /system/app/KSICibaEngine
 /system/app/MiGameService
-/system/app/MIUIAccessibility
+/system/app/MIUIAccessibilityPad
 /system/app/MiuiPrintSpooler
 /system/app/MIUISecurityInputMethod
 /system/app/MSA
