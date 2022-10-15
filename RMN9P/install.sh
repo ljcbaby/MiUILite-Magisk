@@ -67,7 +67,6 @@ REPLACE="
 /system/app/MSA
 /system/app/SogouInput
 /system/app/talkback
-/system/data-app/com.baidu.searchbox_9
 /system/data-app/com.dragon.read_104
 /system/data-app/com.taobao.litetao_144
 /system/data-app/com.UCMobile_11
