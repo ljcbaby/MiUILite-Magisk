@@ -61,7 +61,7 @@ REPLACE="
 /system/app/HybridPlatform
 /system/app/KSICibaEngine
 /system/app/MIUIAccessibility
-/system/app/MIUIgreenguard
+/system/app/MIUIgreenguardOld
 /system/app/MiuiPrintSpoolerBeta
 /system/app/MIUISecurityInputMethod
 /system/app/MSA

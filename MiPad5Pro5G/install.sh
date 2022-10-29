@@ -57,12 +57,12 @@ REPLACE="
 /system/app/com.google.ar.core
 /system/app/com.xiaomi.macro
 /system/app/GooglePrintRecommendationService
-/system/app/greenguard
 /system/app/HybridAccessory
 /system/app/HybridPlatform
 /system/app/KSICibaEngine
 /system/app/MiGameService
 /system/app/MIUIAccessibilityPad
+/system/app/MIUIgreenguardOld
 /system/app/MiuiPrintSpooler
 /system/app/MIUISecurityInputMethod
 /system/app/MSA
