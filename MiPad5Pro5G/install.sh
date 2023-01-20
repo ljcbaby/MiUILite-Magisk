@@ -58,13 +58,13 @@ REPLACE="
 /system/product/app/HybridPlatform
 /system/product/app/MiGameService
 /system/product/app/MIUIAccessibilityPad
-/system/product/app/MIUIGameCenterPad
 /system/product/app/MIUIgreenguard
 /system/product/app/MIUISecurityInputMethod
 /system/product/app/MSA
 /system/product/app/SogouInput
 /system/product/app/talkback
 /system/product/data-app/BaiduIME
+/system/product/data-app/MIUIGameCenterPad
 /system/product/data-app/MIUIHuanji
 /system/product/data-app/MIUIYoupin
 /system/product/priv-app/MiGameCenterSDKService
