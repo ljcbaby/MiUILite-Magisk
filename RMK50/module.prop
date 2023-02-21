@@ -1,7 +1,7 @@
 id=RMK50Lite
 name=RMK50精简
-version=v20230120(14.0.23.1.9)
-versionCode=230120
+version=v20230221(14.0.23.2.13)
+versionCode=230221
 author=Ljcbaby
 description=去除 Redmi K50 系统无用App，自用
 minMagisk=1700
