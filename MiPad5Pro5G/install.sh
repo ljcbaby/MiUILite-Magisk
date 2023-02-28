@@ -73,6 +73,7 @@ REPLACE="
 /system/app/com.google.ar.core
 /system/app/MiuiPrintSpooler
 /system/app/Traceur
+/system/app/Joyose
 /system/priv-app/BuiltInPrintService
 /system/priv-app/CallLogBackup
 "
