@@ -69,6 +69,7 @@ REPLACE="
 /system/product/data-app/MIUIGameCenter
 /system/product/data-app/MIUINewHome_Removable
 /system/product/data-app/MIUIYoupin
+/system/product/pangu/system/app/Joyose
 /system/product/priv-app/MiGameCenterSDKService
 /system/product/priv-app/MIUIBrowser
 /system/app/BasicDreams
