@@ -74,6 +74,7 @@ REPLACE="
 /system/product/priv-app/MIUIBrowser
 /system/app/BasicDreams
 /system/app/com.google.ar.core
+/system/app/Joyose
 /system/app/MiuiPrintSpoolerBeta
 /system/app/PrintRecommendationService
 /system/priv-app/BuiltInPrintService
