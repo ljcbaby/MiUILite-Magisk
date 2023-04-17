@@ -1,7 +1,7 @@
 id=MiPad5Pro5GLite
 name=MiPad5Pro5G精简
-version=v20230407(14.0.23.4.2)
-versionCode=230407
+version=v20230417(14.0.23.4.10)
+versionCode=230417
 author=Ljcbaby
 description=去除小米平板5Pro5G系统无用App，自用
 minMagisk=1700
