@@ -61,7 +61,7 @@ REPLACE="
 /system/app/HybridPlatform
 /system/app/KSICibaEngine
 /system/app/MIUIAccessibility
-/system/app/MIUIgreenguardOld
+/system/app/MIUIgreenguard
 /system/app/MiuiPrintSpoolerBeta
 /system/app/MIUISecurityInputMethod
 /system/app/MSA
@@ -77,8 +77,8 @@ REPLACE="
 /system/data-app/MIUIYoupin
 /system/priv-app/BuiltInPrintService
 /system/priv-app/CallLogBackup
+/system/priv-app/MiBrowser
 /system/priv-app/MiGameCenterSDKService
-/system/priv-app/MIUIBrowser
 "
 
 ##########################################################################################
