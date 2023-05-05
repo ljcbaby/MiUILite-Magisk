@@ -79,6 +79,8 @@ REPLACE="
 /system/priv-app/CallLogBackup
 /system/priv-app/MiBrowser
 /system/priv-app/MiGameCenterSDKService
+/system/product/data-app/BaiduIME
+/system/product/data-app/com.iflytek.inputmethod.miui
 "
 
 ##########################################################################################
