@@ -61,7 +61,6 @@ REPLACE="
 /system/product/app/MIUIgreenguard
 /system/product/app/MIUISecurityInputMethod
 /system/product/app/MSA
-/system/product/app/SogouInput
 /system/product/app/talkback
 /system/product/data-app/BaiduIME
 /system/product/data-app/com.iflytek.inputmethod.miui

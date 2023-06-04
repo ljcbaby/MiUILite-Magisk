@@ -65,7 +65,6 @@ REPLACE="
 /system/app/MiuiPrintSpoolerBeta
 /system/app/MIUISecurityInputMethod
 /system/app/MSA
-/system/app/SogouInput
 /system/app/talkback
 /system/data-app/com.dragon.read_104
 /system/data-app/com.taobao.litetao_144
