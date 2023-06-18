@@ -72,6 +72,7 @@ REPLACE="
 /system/product/pangu/system/app/Joyose
 /system/product/priv-app/MiGameCenterSDKService
 /system/product/priv-app/MIUIBrowser
+/system/product/priv-app/MIUIQuickSearchBox
 /system/app/BasicDreams
 /system/app/com.google.ar.core
 /system/app/Joyose
