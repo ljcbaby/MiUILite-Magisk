@@ -67,6 +67,7 @@ REPLACE="
 /system/product/data-app/MIUIGameCenterPad
 /system/product/data-app/MIUIHuanji
 /system/product/data-app/MIUIYoupin
+/system/product/data-app/wps-lite
 /system/product/priv-app/MiGameCenterSDKService
 /system/product/priv-app/MIUIBrowserPad
 /system/app/BasicDreams
