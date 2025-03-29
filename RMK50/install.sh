@@ -64,8 +64,8 @@ REPLACE="
 /system/product/app/SwitchAccess
 /system/product/app/talkback
 /system/product/data-app/BaiduIME
-/system/product/data-app/com.iflytek.inputmethod.miui
-/system/product/data-app/MIGalleryLockscreen-MIUI15
+/system/product/data-app/iFlytekIME
+/system/product/data-app/MIGalleryLockscreen
 /system/product/data-app/MIUIDuokanReader
 /system/product/data-app/MIUIGameCenter
 /system/product/data-app/MIUINewHome_Removable
