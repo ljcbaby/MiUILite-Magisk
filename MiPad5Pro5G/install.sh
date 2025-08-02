@@ -51,30 +51,22 @@ REPLACE_EXAMPLE="
 
 # Construct your own list here
 REPLACE="
-/system/product/app/AnalyticsCore
 /system/product/app/com.xiaomi.macro
 /system/product/app/GooglePrintRecommendationService
-/system/product/app/HybridAccessory
 /system/product/app/HybridPlatform
-/system/product/app/MiGameService
-/system/product/app/MIUIAccessibilityPad
+/system/product/app/MIUIAccessibility
 /system/product/app/MIUIgreenguard
 /system/product/app/MIUISecurityInputMethod
-/system/product/app/MSA
 /system/product/app/talkback
-/system/product/data-app/BaiduIME
-/system/product/data-app/com.iflytek.inputmethod.miui
+/system/product/data-app/iFlytekIME
 /system/product/data-app/MIUIGameCenterPad
-/system/product/data-app/MIUIHuanji
-/system/product/data-app/MIUIYoupin
-/system/product/data-app/wps-lite
+/system/product/priv-app/kidspace
 /system/product/priv-app/MiGameCenterSDKService
 /system/product/priv-app/MIUIBrowserPad
 /system/app/BasicDreams
 /system/app/com.google.ar.core
-/system/app/MiuiPrintSpooler
+/system/app/PrintRecommendationService
 /system/app/Traceur
-/system/app/Joyose
 /system/priv-app/BuiltInPrintService
 /system/priv-app/CallLogBackup
 "
