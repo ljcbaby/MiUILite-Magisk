@@ -1,4 +1,6 @@
-REPLACE="
+SKIPMOUNT=false
+
+REMOVE="
 /system/product/app/AnalyticsCore
 /system/product/app/com.xiaomi.macro
 /system/product/app/DeviceInfoQR
