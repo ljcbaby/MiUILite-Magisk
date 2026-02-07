@@ -22,6 +22,7 @@ REMOVE="
 /system/product/data-app/MIUINewHome_Removable
 /system/product/data-app/MIUIYoupin
 /system/product/priv-app/MiGameCenterSDKService
+/system/product/priv-app/MiniGameService
 /system/product/priv-app/MIUIBrowser
 /system/product/priv-app/MIUIQuickSearchBox
 /system/app/BasicDreams
