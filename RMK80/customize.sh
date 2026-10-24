@@ -7,7 +7,6 @@ REMOVE="
 /system/product/app/GooglePrintRecommendationService
 /system/product/app/HybridPlatform
 /system/product/app/MiGameService_GameAI
-/system/product/app/MIUIAccessibility
 /system/product/app/MIUIgreenguard
 /system/product/app/MIUISecurityInputMethod
 /system/product/app/MSA
@@ -23,6 +22,7 @@ REMOVE="
 /system/product/data-app/MIUIYoupin
 /system/product/priv-app/MiGameCenterSDKService
 /system/product/priv-app/MiniGameService
+/system/product/priv-app/MIUIAccessibility
 /system/product/priv-app/MIUIBrowser
 /system/product/priv-app/MIUIQuickSearchBox
 /system/app/BasicDreams
